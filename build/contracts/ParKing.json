@@ -1,0 +1,109 @@
+{
+  "contractName": "ParKing",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a723058209b2bab57ddb506e76b8550b6d6b2060d77ace0d4adb67dfe8ca3b484a1d634340029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a723058209b2bab57ddb506e76b8550b6d6b2060d77ace0d4adb67dfe8ca3b484a1d634340029",
+  "sourceMap": "36:23:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;36:23:1;;;;;;;",
+  "deployedSourceMap": "36:23:1:-;;;;;",
+  "source": "pragma solidity >=0.4.22 <0.6.0;\r\n\r\ncontract ParKing {\r\n\r\n}",
+  "sourcePath": "C:/Users/Benedict Wolff/Desktop/ParKing/contracts/ParKing.sol",
+  "ast": {
+    "absolutePath": "/C/Users/Benedict Wolff/Desktop/ParKing/contracts/ParKing.sol",
+    "exportedSymbols": {
+      "ParKing": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.6",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "ParKing",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "36:23:1"
+      }
+    ],
+    "src": "0:59:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/Benedict Wolff/Desktop/ParKing/contracts/ParKing.sol",
+    "exportedSymbols": {
+      "ParKing": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.6",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "ParKing",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "36:23:1"
+      }
+    ],
+    "src": "0:59:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.0.2",
+  "updatedAt": "2019-02-15T20:31:31.840Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
